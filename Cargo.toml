@@ -49,7 +49,7 @@ tls-listener = { version = "=0.8", features = ["rustls"] }
 tokio = { version = "1.24", features = ["full"] }
 tokio-stream = "0.1"
 tokio-rustls = "0.24"
-tokio-tungstenite = "0.20"
+tokio-tungstenite = "0.21"
 tokio-util = { version = "0.7", features = ["codec"] }
 tungstenite = "0.20"
 
